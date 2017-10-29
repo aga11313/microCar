@@ -1,0 +1,12 @@
+{
+  "name": "bluetoothrobotcar",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "A bluetooth controlled robot car",
+  "author": "agnesio",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}
